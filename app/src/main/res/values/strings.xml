@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <string name="image_description">Image </string>
+    <string name="miles_per_hour">miles/hour</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="intro_text_description">Todays Weather at the tip of your fingers </string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+
+    <string name="sign_up_description_text">Enter you name, password and email </string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="email">Email</string>
+
+    <string name="sign_in_description_text">Enter your name, email id and password, to login.</string>
+
+    <string-array name="Cities">
+        <item>Ado-Ekiti</item>
+        <item>Lagos</item>
+        <item>PortHarcourt</item>
+        <item>Abuaja</item>
+        <item>Benin</item>
+        <item>Ibadan</item>
+        <item>Ikeja</item>
+        <item>Effon-Alaiye</item>
+        <item>Enugu</item>
+        <item>Toronto</item>
+    </string-array>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+</resources>
